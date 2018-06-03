@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1526979089 source:/home/skarab/prog/demo/Compiler/compiler.cpp
+	"compiler.h"
+
+1526978987 /home/skarab/prog/demo/Compiler/compiler.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<numeric>
+	<sstream>
+	<iostream>
+	<fstream>
+	<dirent.h>
+	<sys/stat.h>
+

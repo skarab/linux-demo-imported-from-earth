@@ -1,0 +1,17 @@
+     ___
+    /___\     .imported from earth.
+   /(o.o)\    .at Simulaatio 8.
+   (_| |_)    .k-storm.
+    / .|. \     .2018.
+ ----------------------------------------------------
+     linux demo - framebuffer only
+ ----------------------------------------------------
+  Requires SDL & libSDL_mixer-1.2.so
+ 
+  on Ubuntu:
+  sudo apt-get install libsdl-mixer1.2
+  then run it from command line.
+ ----------------------------------------------------
+                  www.kstorm.org
+    https://soundcloud.com/stroodge
+ ----------------------------------------------------

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1527009270 source:/home/skarab/prog/demo/Demo/main.cpp
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	"../Data/data.h"
+	"filter_highpass.h"
+	"filter_lowpass.h"
+
+1527012634 source:/home/skarab/prog/demo/Data/data.c
+	"data.h"
+
+1527012634 /home/skarab/prog/demo/Data/data.h
+
+1527002882 /home/skarab/prog/demo/Demo/filter_highpass.h
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+
+1527003521 /home/skarab/prog/demo/Demo/filter_lowpass.h
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+
